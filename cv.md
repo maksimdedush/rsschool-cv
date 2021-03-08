@@ -1,7 +1,6 @@
 # Maksim Dedush
 ## Contacts
 E-mail: dedush.maksim@mail.ru
-
 Telephone: +375336558978
 
 ## Objective
@@ -13,7 +12,7 @@ To acquire knowledge and experience in frontend development for making perspecti
 * Ability to work with Git, GitHub
 ### Language skills:
 * Russian (native)
-* English (A0)
+* English (A0 or maybe if  Im lucky A1)
 ## Example of latest code:
 ```
   let name = "Maksim";
