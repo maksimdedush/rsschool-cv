@@ -22,7 +22,7 @@ To acquire knowledge and experience in frontend development for making perspecti
   alert(name);`
 ```
 ## Education
-University: MGUP- Mogilev
+University: Mogilev State Univercity of Food Technologies- Mogilev
 
 ## Online learning
 https://www.udemy.com/course/webdeveloper <br/>
