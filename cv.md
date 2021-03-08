@@ -1,6 +1,6 @@
 # Maksim Dedush
 ## Contacts
-E-mail: dedush.maksim@mail.ru
+E-mail: dedush.maksim@mail.ru <br/>
 Telephone: +375336558978
 
 ## Objective
